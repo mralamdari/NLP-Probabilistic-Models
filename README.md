@@ -1,1 +1,1 @@
-# NLP-Probabilistic Models
+# NLP Probabilistic Models
