@@ -1,2 +1,2 @@
 # NLP Probabilistic Models
-In this repository,
+In this repository, you will learn
